@@ -1,0 +1,9 @@
+.pic-list {
+	margin: 0;
+}
+
+
+.pic-list li {
+    list-style: none;
+    text-align: center;
+}
