@@ -7,3 +7,9 @@
     list-style: none;
     text-align: center;
 }
+
+hr {
+    color: black;
+    height: 2px;
+    border-width: 5px;
+}
